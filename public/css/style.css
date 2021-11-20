@@ -1,0 +1,44 @@
+.main-container {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.hero{
+    color: gray;
+}
+.add{
+    margin-top: 5px;
+}
+h2{
+    font-size: 100px;
+    color:blue;
+    text-shadow: rgb(red, green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer {
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card1{
+    background-color: lightgrey; 
+}
+.card2{
+    background-color: lightgrey; 
+    
+}
+.card3{
+    background-color: lightgrey; 
+}
+
+.card-title{
+    color: blue;
+}
+
+.index{
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
